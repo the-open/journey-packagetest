@@ -1,11 +1,11 @@
 PATH
-  remote: gems/journey_packagetest_admin
+  remote: journey_packagetest_admin
   specs:
     journey_packagetest_admin (0.1.0)
       rails (~> 5.2.3)
 
 PATH
-  remote: gems/journey_packagetest_core
+  remote: journey_packagetest_core
   specs:
     journey_packagetest_core (0.1.0)
       rails (~> 5.2.3)

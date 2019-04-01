@@ -43,5 +43,5 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'journey_packagetest_core', path: 'gems/journey_packagetest_core'
-gem 'journey_packagetest_admin', path: 'gems/journey_packagetest_admin'
+gem 'journey_packagetest_core', path: 'journey_packagetest_core'
+gem 'journey_packagetest_admin', path: 'journey_packagetest_admin'
