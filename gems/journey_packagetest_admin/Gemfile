@@ -13,3 +13,4 @@ gemspec
 
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
+gem 'journey_packagetest_core', path: '../journey_packagetest_core'

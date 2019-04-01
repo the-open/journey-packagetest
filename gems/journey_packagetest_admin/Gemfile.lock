@@ -1,4 +1,10 @@
 PATH
+  remote: ../journey_packagetest_core
+  specs:
+    journey_packagetest_core (0.1.0)
+      rails (~> 5.2.3)
+
+PATH
   remote: .
   specs:
     journey_packagetest_admin (0.1.0)
@@ -121,6 +127,7 @@ PLATFORMS
 
 DEPENDENCIES
   journey_packagetest_admin!
+  journey_packagetest_core!
   pg
 
 BUNDLED WITH
