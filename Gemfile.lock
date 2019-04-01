@@ -1,3 +1,9 @@
+PATH
+  remote: gems/journey_packagetest_core
+  specs:
+    journey_packagetest_core (0.1.0)
+      rails (~> 5.2.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -146,6 +152,7 @@ DEPENDENCIES
   bootsnap (>= 1.1.0)
   byebug
   jbuilder (~> 2.5)
+  journey_packagetest_core!
   listen (>= 3.0.5, < 3.2)
   pg (>= 0.18, < 2.0)
   puma (~> 3.11)
