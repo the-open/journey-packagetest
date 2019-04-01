@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version     = JourneyPackagetestAdmin::VERSION
   spec.authors     = ["Vim"]
   spec.email       = ["vim@noodle.io"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of JourneyPackagetestAdmin."
-  spec.description = "TODO: Description of JourneyPackagetestAdmin."
+  # spec.homepage    = "TODO"
+  spec.summary     = "Summary of JourneyPackagetestAdmin."
+  # spec.description = "TODO: Description of JourneyPackagetestAdmin."
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
