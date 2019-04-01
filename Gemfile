@@ -44,3 +44,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'journey_packagetest_core', path: 'gems/journey_packagetest_core'
+gem 'journey_packagetest_admin', path: 'gems/journey_packagetest_admin'
