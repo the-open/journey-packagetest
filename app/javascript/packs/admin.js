@@ -1,11 +1,24 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Header from 'frontend/src/Header';
+import AdminHeader from 'frontend/src/AdminHeader';
+import CoreHeader from 'journey-core-frontend/src/CoreHeader';
 
 console.log('Hello World from admin webpacker');
 
-const LocalHeader = () => <h1>This is from the local webpacker</h1>;
+const LocalHeader = () => (
+  <div>
+    <hr />
+    This is a component from the host
+    <br />
+    This is a component from Core:
+    <CoreHeader />
+    <hr />
+    This is a component from Admin:
+    <AdminHeader />
+    <hr />
+  </div>
+);
 
 document.addEventListener('DOMContentLoaded', () => {
-  ReactDOM.render(<Header />, document.getElementById('app'));
+  ReactDOM.render(<LocalHeader />, document.getElementById('app'));
 });
