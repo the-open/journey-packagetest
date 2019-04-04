@@ -4440,13 +4440,6 @@ from2@^2.1.0:
     inherits "^2.0.1"
     readable-stream "^2.0.0"
 
-"frontend@file:./journey_packagetest_admin/app/frontend":
-  version "0.1.0"
-  dependencies:
-    react "^16.8.6"
-    react-dom "^16.8.6"
-    react-scripts "2.1.8"
-
 fs-extra@7.0.1, fs-extra@^7.0.0:
   version "7.0.1"
   resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-7.0.1.tgz#4f189c44aa123b895f722804f55ea23eadc348e9"
@@ -6080,6 +6073,13 @@ joi@^11.1.1:
     hoek "4.x.x"
     isemail "3.x.x"
     topo "2.x.x"
+
+"journey-core-frontend@file:./journey_packagetest_core/app/frontend":
+  version "0.1.0"
+  dependencies:
+    react "^16.8.6"
+    react-dom "^16.8.6"
+    react-scripts "2.1.8"
 
 js-base64@^2.1.8:
   version "2.5.1"
