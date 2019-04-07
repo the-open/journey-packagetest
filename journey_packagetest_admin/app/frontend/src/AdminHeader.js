@@ -1,5 +1,5 @@
 import React from 'react';
-import CoreHeader from 'journey-core-frontend/src/CoreHeader';
+import CoreHeader from 'journey-packagetest-core-frontend/src/CoreHeader';
 import './index.css';
 import logo from './journey-logo.png';
 
