@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import AdminHeader from 'frontend/src/AdminHeader';
-import CoreHeader from 'journey-core-frontend/src/CoreHeader';
+import AdminHeader from 'journey-packagetest-admin-frontend/src/AdminHeader';
+import CoreHeader from 'journey-packagetest-core-frontend/src/CoreHeader';
 
 console.log('Hello World from admin webpacker');
 

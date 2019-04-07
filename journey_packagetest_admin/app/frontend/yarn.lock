@@ -5554,7 +5554,7 @@ joi@^11.1.1:
     isemail "3.x.x"
     topo "2.x.x"
 
-"journey-core-frontend@file:../../../journey_packagetest_core/app/frontend":
+"journey-packagetest-core-frontend@file:../../../journey_packagetest_core/app/frontend":
   version "0.1.0"
   dependencies:
     react "^16.8.6"

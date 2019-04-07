@@ -1,9 +1,9 @@
 {
-  "name": "frontend",
+  "name": "journey-packagetest-admin-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "journey-core-frontend": "file:../../../journey_packagetest_core/app/frontend",
+    "journey-packagetest-core-frontend": "file:../../../journey_packagetest_core/app/frontend",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"
