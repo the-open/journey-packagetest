@@ -1,6 +1,6 @@
 {
   "name": "journey-packagetest-admin-frontend",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "dependencies": {
     "journey-packagetest-core-frontend": "^0.1.0",
