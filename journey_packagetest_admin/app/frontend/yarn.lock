@@ -5554,8 +5554,10 @@ joi@^11.1.1:
     isemail "3.x.x"
     topo "2.x.x"
 
-"journey-packagetest-core-frontend@file:../../../journey_packagetest_core/app/frontend":
+journey-packagetest-core-frontend@^0.1.0:
   version "0.1.0"
+  resolved "https://registry.yarnpkg.com/journey-packagetest-core-frontend/-/journey-packagetest-core-frontend-0.1.0.tgz#0fed47142a95f6e7305b7758bdd7db93948b05b3"
+  integrity sha512-bUJCn+zxABYnp3Q55Pvy5Km9UTr1aSbhDl8VGVBpOkrdgzetepakjJX+ZwSYNYrGwxHjoBW3BcIOIeCrghcJvA==
   dependencies:
     react "^16.8.6"
     react-dom "^16.8.6"
